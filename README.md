@@ -41,7 +41,6 @@ A command-line Expense Tracker that helps users track their spending.
 cd Task-2-Expense-Tracker
 python expense_tracker.py
 
-
 ---
 
 ##  Task 3: Random Password Generator
