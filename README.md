@@ -65,29 +65,13 @@ python password_generator.py
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 - Python 3  
 - Command Line Interface (CLI)  
 - No external libraries required
 
 ---
 
-##  Repository Structure
-
-decodelabs_tasks/
-├── README.md
-├── Task-1-To-Do-List/
-│   ├── todo.py
-│   └── todo.PNG
-├── Task-2-Expense-Tracker/
-│   ├── expense_tracker.py
-│   └── expense_screenshot.png
-└── Task-3-Password-Generator/
-    ├── password_generator.py
-    └── password_screenshot.png
-
-
----
 
 ##  How to Run All Projects
 
