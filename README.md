@@ -81,7 +81,8 @@ python password_generator.py
 
 - **Name:**
   Rohama Kulsoom
-  
+  **Email**
+  rohamakulsoom789@gmail.com
 ---
 
 ##  License
