@@ -17,9 +17,6 @@ A command-line To-Do List application that helps users manage their daily tasks 
 -  Delete a Task  
 -  Exit Program  
 
-###  Screenshot
-
-
 ###  How to Run
 cd Task-1-To-Do-List
 python todo.py
@@ -40,8 +37,6 @@ A command-line Expense Tracker that helps users track their spending.
 -  Average Calculation  
 -  Exit Program  
 
-###  Screenshot
-
 ###  How to Run
 cd Task-2-Expense-Tracker
 python expense_tracker.py
@@ -61,8 +56,6 @@ A command-line tool that generates strong, random passwords.
 -  Special Characters (!@#$%^&*)  
 -  Generate Multiple Passwords  
 -  Exit Program  
-
-###  Screenshot
 
 
 ###  How to Run
